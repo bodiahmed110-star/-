@@ -1,0 +1,11 @@
+{
+  "name":"مصحفي — مصحف إسلامي متكامل",
+  "short_name":"مصحفي",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f6f2e8",
+  "theme_color":"#163d2d",
+  "dir":"rtl",
+  "lang":"ar",
+  "icons":[{"src":"icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
